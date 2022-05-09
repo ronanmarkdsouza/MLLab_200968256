@@ -1,4 +1,3 @@
-#Meta Data
 Summary
 =======
 
